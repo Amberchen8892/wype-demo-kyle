@@ -49,7 +49,7 @@ btnNext.addEventListener('click', function(){
             indicator.style.width = `${i * 36}%`;
 
         } else {
-            indicator.style.width = `${i * 34}%`;
+            indicator.style.width = `${i * 38}%`;
 
         }
        
