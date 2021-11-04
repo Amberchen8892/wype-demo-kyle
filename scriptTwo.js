@@ -33,6 +33,6 @@ setTimeout(function(){
     sectionThree.style.display = "block";
     sectionFour.style.display = "block";
 
-}, 2000);
+}, 6000);
 
 
